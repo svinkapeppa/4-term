@@ -1,9 +1,6 @@
-<p align="center">
-Курс по Python в МФТИ, 2017
-</p>
-<p align="center">
-Python 2.7
-</p>
+## Курс по Python в МФТИ, 2017
+####Python 2.7
+
 ***
 Домашнее задание №1
 
